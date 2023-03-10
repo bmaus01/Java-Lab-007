@@ -1,3 +1,14 @@
+/**
+ * @author Trevor Hartman
+ * @author Bryan Maus
+ * Date 03/10/2023
+ *
+ * @since version 1.0
+ *
+ * Write a method named **eoCount** that contains a while loop that reads in integers from System.in, and counts the even and odd numbers separately.
+ * Write a method named **mean** that contains a while loop that reads in integers from System.in and calculates the mean of the numbers entered.
+ */
+
 import java.util.Scanner;
 public class WhileLoops {
     private final static Scanner s = new Scanner(System.in);
